@@ -20,6 +20,7 @@
   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 * Linear Algebra
   * https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
+  * https://www.khanacademy.org/math/linear-algebra
   * https://cs.brown.edu/video/channels/coding-matrix-fall-2014/
 * Git and GitHub
   * https://www.udacity.com/course/how-to-use-git-and-github--ud775
